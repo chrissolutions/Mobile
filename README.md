@@ -1,2 +1,2 @@
 # Mobile
-Repository for Mobile development
+CafeLib tools used for Mobile development
